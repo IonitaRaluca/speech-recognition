@@ -1,0 +1,7 @@
+TITLU: Sistem de recunoastere al comenzilor vocale, utilizand un algoritm propriu, în vederea deplasării unui dispozitiv. 
+
+profa a zis ca as putea folosi un toolkit KALDI se numeste pentru a face mai usor programul de recunoastere vocala.
+Eu ti-am pus si folderul de inregistrari pe care algoritmul ar trebui sa l recunoasca. Asta ar fi oarecum "baza de date" pe care o va parcurge si din care va alege o anumita 
+inregistrare in functie de cuvintele pe care le va auzi de la speaker si pe care noi le vom defini ca fiind semnificative. 
+Teoretic in urma cuvantului semnificativ rostit  dispozitivul comandat vocal trebuie sa execute o anumita miscare, doar ca in cazul nostru el va rosti o propozitie 
+(una inregistrata deja) sau va afisa un text cum sa ne confirme ca a inteles corect comanda. 
