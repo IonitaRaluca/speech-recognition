@@ -10,3 +10,4 @@ https://ieeexplore.ieee.org/abstract/document/7976863/references#references
 
 https://github.com/LearnedVector/A-Hackers-AI-Voice-Assistant/tree/dependabot/pip/VoiceAssistant/nlu/tensorflow-2.5.2/VoiceAssistant/speechrecognition
 https://www.youtube.com/watch?v=YereI6Gn3bM
+https://www.tensorflow.org/tutorials/audio/simple_audio
